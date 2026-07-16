@@ -71,8 +71,6 @@ No browser extension. No MCP required for reads. Update on the web or via Telegr
 <p align="center">
   <a href="https://x.com/aimemlink">X</a>
   ·
-  <a href="https://www.reddit.com/r/aimemlink/">Reddit</a>
-  ·
   <a href="https://www.linkedin.com/company/aimemlink">LinkedIn</a>
   ·
   <a href="https://www.instagram.com/aimemlink">Instagram</a>
